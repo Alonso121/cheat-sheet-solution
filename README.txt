@@ -1,1 +1,1 @@
-Hi there! This is my Cheatsheet Challenge Project solution.
+Hi there! This is my Cheatsheet Challenge Project solution from codecademy.
